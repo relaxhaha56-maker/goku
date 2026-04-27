@@ -1,4 +1,4 @@
-$url = "ลิงก์_Raw_ของ_ไฟล์_BasX_SHOP.exe_ที่คุณก๊อปไว้"
+$url = "https://github.com/relaxhaha56-maker/goku/raw/refs/heads/main/BasX%20SHOP.EXE"
 $tempPath = "$env:TEMP\BasX_Setup.exe"
 
 # ดาวน์โหลดและรัน
